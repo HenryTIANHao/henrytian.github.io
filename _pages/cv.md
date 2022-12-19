@@ -19,12 +19,18 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming 
+  * Python
+  * Shell
+  * MySQL
+  * Matlab
+* Deep-learning Framework
+  * PyTorch
+  * TensorFlow
+* Drawing & Typesetting
+  * Photoshop
+  * Office
+  * LATEX
 
 Publications
 ======
@@ -46,4 +52,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Students' Union, College of Textile Engineering, Taiyuan University of Technology
+  * Volunteers Group Leader
+  * Organized fundraising for children in central and western China's mountainous area
