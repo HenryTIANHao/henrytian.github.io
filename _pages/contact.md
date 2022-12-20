@@ -14,7 +14,9 @@ permalink: /contact/
 </script>
 
 **Email:** hao-henry.tian@connect.polyu.hk
+
 **Phone:** +852-56009493
+
 **WeChat:** TH15343419026
 
 ## Mailing Address  
