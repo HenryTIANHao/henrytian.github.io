@@ -38,12 +38,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+-->
+
 Service and leadership
 ======
 * Students' Union, College of Textile Engineering, Taiyuan University of Technology
