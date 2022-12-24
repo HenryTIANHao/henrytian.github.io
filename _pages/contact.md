@@ -20,6 +20,6 @@ permalink: /contact/
 **WeChat:** TH15343419026
 
 ## Mailing Address  
-Ng Wing Hong Building, Wing ST 605, 
+ST 605, Ng Wing Hong Building, 
 The Hong Kong Polytechnic University, 
 Hong Kong SAR, China
